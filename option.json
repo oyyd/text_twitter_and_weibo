@@ -1,0 +1,12 @@
+{
+  "accounts":{
+    "weibo":{
+      "name":"oyydoibh@qq.com",
+      "secret":"magamifans"
+    },
+    "twitter":{
+      "name":"oyydoibh@gmail.com",
+      "secret":"holic'123"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "twitter_weibo",
+  "version": "0.1.0",
+  "description": "send text to twitter and weibo",
+  "main": "twitter_weibo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oyyd",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "phantomjs": "^1.9.15"
+  }
+}
