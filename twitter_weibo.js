@@ -4,7 +4,7 @@ var childProcess = require('child_process');
 var phantomjsPath = require('phantomjs').path;
 var pagesScript = __dirname+'/lib/pages.js';
 
-var test_string = 'twitter测试final';
+var test_string = '测试一下。';
 
 //get option file
 var option = JSON.parse(fs.readFileSync('option.json', 'utf8'));

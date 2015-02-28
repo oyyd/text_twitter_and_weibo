@@ -1,12 +1,12 @@
 {
   "accounts":{
     "weibo":{
-      "name":"oyydoibh@qq.com",
-      "secret":"magamifans"
+      "name":"YOUR_WEIBO_NAME",
+      "secret":"YOUR_WEIBO_PASSWORD"
     },
     "twitter":{
-      "name":"oyydoibh@gmail.com",
-      "secret":"holic'123"
+      "name":"YOUR_TWITTER_NAME",
+      "secret":"YOUR_TWITTER_PASSWORD"
     }
   }
 }
